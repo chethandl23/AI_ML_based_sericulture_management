@@ -2,3 +2,6 @@ major
 .logs/
 model/
 .vscode/
+firebase/serviceAccountKey.json
+.mp
+data/summary.json
